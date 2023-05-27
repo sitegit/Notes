@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notes(SQLite, Room, Singleton)</string>
+    <string name="day_of_week">День недели:</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="set_title">Введите название</string>
+    <string name="set_description">Введите описание</string>
+    <string name="button_add_note">button add note</string>
+    <string name="check_input">Все поля должны быть заполнены</string>
+
+    <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+
+</resources>
